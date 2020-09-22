@@ -17,10 +17,12 @@ We report here some handwritten digits generated during the training process.
 
 We can see that in the beginning the images generated are pure noise.
 
-<img src="images/GAN1.png" width="700">
+<img src="images/epoch_1.png" width="700">
 
 As the number of epochs for training increases, the quality improves.
 
-<img src="images/GAN2.png" width="700">
+<img src="images/epoch_10.png" width="700">
 
 At the last epoch (epoch 200) the GAN is able to generate very good synthetic images.
+
+<img src="images/epoch_200.png" width="700">
