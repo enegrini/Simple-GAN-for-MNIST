@@ -15,10 +15,12 @@ The goal of this project is learn the intrinsic distribution function of the MNI
 ### Results of the learning during training
 We report here some handwritten digits generated during the training process.
 
-We can see that in the beginning the images generated are pure noise,
+We can see that in the beginning the images generated are pure noise.
+
 <img src="images/GAN1.png" width="700">
 
-As the number of epochs for training increases, the quality improves
+As the number of epochs for training increases, the quality improves.
+
 <img src="images/GAN2.png" width="700">
 
-until at epoch 200 the GAN is able to generate very good synthetic images.
+At the last epoch (epoch 200) the GAN is able to generate very good synthetic images.
