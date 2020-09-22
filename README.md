@@ -13,10 +13,12 @@ Generative Adversarial Networks are composed of two models:
 The goal of this project is learn the intrinsic distribution function of the MNIST data set and generate new handwritten digits from the learned distribution.
 
 ### Results of the learning during training
-We report here some generated imageg during the training process.
+We report here some handwritten digits generated during the training process.
 
 We can see that in the beginning the images generated are pure noise,
+<img src="images/GAN1.png" width="700">
 
 As the number of epochs for training increases, the quality improves
+<img src="images/GAN2.png" width="700">
 
-until att epoch 200 the GAN is able to generate very good synthetic images.
+until at epoch 200 the GAN is able to generate very good synthetic images.
